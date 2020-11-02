@@ -5,4 +5,7 @@ Works with Marlin 2.9.x Bugfix Version
 
 For Ender 3 Pro
 
-With BigTreeTech SKR Mini E3 V2.0
+With BigTreeTech SKR Mini E3 V2.0 
+- default_envs = STM32F103RC_btt_512K
+
+
